@@ -3,7 +3,7 @@ const RpService = require("wdio-reportportal-service");
 
 const conf = {
     reportPortalClientConfig: {
-        token: 'a3a4b292-606c-4161-9b88-94a77e61e201',
+        token: '63e7a64e-2c1a-4aa1-8e42-7e4ca60b0319',
         endpoint: 'https://demo.reportportal.io/api/v1',
         launch: 'launchname',
         project: 'borisosipov_personal',
